@@ -1,0 +1,10 @@
+fastapi
+uvicorn
+torch
+transformers>=4.38.0
+sentencepiece
+deep-translator
+pillow
+python-dotenv
+requests
+streamlit
